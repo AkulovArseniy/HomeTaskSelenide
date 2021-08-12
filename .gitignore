@@ -1,0 +1,15 @@
+build
+.idea
+out
+*.ipr
+*.iws
+*.iml
+.gradle
+.project
+.classpath
+chromedriver.log
+.settings
+integration/ScreenshotTest/canTakeScreenshotOfElement/
+classes
+# Project exclude paths
+/target/
